@@ -1,0 +1,1 @@
+search = ['football', ' championsleague', ' chelsea', ' mancity']
